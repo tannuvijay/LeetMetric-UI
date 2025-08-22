@@ -15,8 +15,6 @@ It allows you to enter your LeetCode username and fetches your problem-solving s
 
 ---
 
-## 📸 Screenshots
-
 ### 🔹 Before entering username  
 <img width="977" height="624" alt="image" src="https://github.com/user-attachments/assets/2108ca08-18d9-4f7d-b73f-c1a9a08e5088" />
 
